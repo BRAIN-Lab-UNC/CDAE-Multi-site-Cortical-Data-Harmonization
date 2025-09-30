@@ -3,7 +3,7 @@
 Official PyTorch implementation of **Cycle-Consistent Disentangled Autoencoder (CDAE)** for multi-site cortical data harmonization, introduced in:
  *Fenqiang Zhao, Zhengwang Wu, Dajiang Zhu, Tianming Liu, John Gilmore, Weili Lin, Li Wang, Gang Li. "Disentangling Site Effects with Cycle-Consistent Adversarial Autoencoder for Multi-site Cortical Data Harmonization," MICCAI 2023.* [Paper link](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_36)
 
-![Demo](https://github.com/BRAIN-Lab-UNC/CDAE-Multi-site-Cortical-Data-Harmonization/imgs/demo.png)
+![Demo](https://github.com/BRAIN-Lab-UNC/CDAE-Multi-site-Cortical-Data-Harmonization/blob/main/imgs/demo.png)
 
 ------
 
